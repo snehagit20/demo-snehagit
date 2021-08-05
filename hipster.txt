@@ -1,0 +1,16 @@
+changes made for branch demo
+line is addes
+second line is added!!
+
+Fix NUL file-corruption bug after Windows shutdown brutally.
+2.  Fix inaccurate URL detection by replacing a new URL parser.
+3.  Fix RegEx look behind operations and \A and and \b and \z.
+4.  Split functionList.xml into multifile in "functionList" Folder.
+5.  Make tray icon work again in administrator mode.
+6.  Fix dialogs & floating dockable panels don't minimize to system tray issue.
+7.  Add alternative icon set for tab bar.
+8.  Add ability to remove any duplicate lines in a document, keeping the first occurrence.
+9.  Fix incorrect icon for monitoring status in Document list panel and in Document switcher.
+10. Add copy marked text & styled text to clipboard commands to menu.
+11. Fix find-all-open-docs not finding all matches in ANSI files.
+12. Display long lines better in Find-result panel by increasing its max length to 2048.
